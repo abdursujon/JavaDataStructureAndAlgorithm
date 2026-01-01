@@ -1,0 +1,3 @@
+- Declare data as private: Hide the class data so it cannot be accessed directly from outside the class.
+- Use getters and setters: Keep variables private and provide public getter and setter methods for controlled access and safe modification, often with validation.
+- Apply proper access modifiers: Use private for data hiding and public for methods that provide access.
