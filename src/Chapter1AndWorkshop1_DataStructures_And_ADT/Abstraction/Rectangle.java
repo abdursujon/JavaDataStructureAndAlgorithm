@@ -1,4 +1,4 @@
-package Lecture1AndWorkshop1_DataStructures_And_ADT.Abstraction;
+package Chapter1AndWorkshop1_DataStructures_And_ADT.Abstraction;
 
 public class Rectangle implements Shape{
     private double length;

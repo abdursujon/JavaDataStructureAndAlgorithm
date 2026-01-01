@@ -1,4 +1,4 @@
-package Lecture1AndWorkshop1_DataStructures_And_ADT.Polymorphism;
+package Chapter1AndWorkshop1_DataStructures_And_ADT.Polymorphism;
 
 public class Human extends Animal implements Carnivore, Vegetarian{
 

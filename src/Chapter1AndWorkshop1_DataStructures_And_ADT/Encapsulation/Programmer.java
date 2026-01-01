@@ -1,4 +1,4 @@
-package Lecture1AndWorkshop1_DataStructures_And_ADT.Encapsulation;
+package Chapter1AndWorkshop1_DataStructures_And_ADT.Encapsulation;
 
 public class Programmer {
     private String name;

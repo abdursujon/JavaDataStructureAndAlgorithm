@@ -1,4 +1,4 @@
-package Lecture1AndWorkshop1_DataStructures_And_ADT.Inheritance;
+package Chapter1AndWorkshop1_DataStructures_And_ADT.Inheritance;
 
 public class Bird extends Animal{
 
