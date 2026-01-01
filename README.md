@@ -1,3 +1,4 @@
+# Java Data Structure And Algorithm
 This repository contains practical examples of Java data structures and algorithms.
 
 It is intended as a practice repository for anyone who wants a deeper understanding of Java data structures and algorithms.
